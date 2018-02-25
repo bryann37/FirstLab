@@ -14,7 +14,7 @@ public class CircleArea {
 		
 		double pi = Math.PI;
 		
-		double Circle_Area = pi * radius * radius ;
+		double Circle_Area =( pi * radius * radius)/ 2 ;
 		
 		System.out.println(Circle_Area );
 		
